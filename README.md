@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет, меня зовут Марат 👋
 
 <!--
 **mortijka/mortijka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
